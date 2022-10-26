@@ -10,3 +10,4 @@ sqlparse==0.4.3
 django-storages
 Pillow
 boto3
+django-environ
